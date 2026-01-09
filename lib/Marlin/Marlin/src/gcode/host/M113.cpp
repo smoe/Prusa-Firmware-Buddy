@@ -26,7 +26,7 @@
 
 #include "../gcode.h"
 
-/** \addtogroup G-Codes
+/** \addtogroup G-codes
  * @{
  */
 

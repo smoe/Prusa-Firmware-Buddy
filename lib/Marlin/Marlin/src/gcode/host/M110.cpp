@@ -23,7 +23,7 @@
 #include "../gcode.h"
 #include "../queue.h" // for last_N
 
-/** \addtogroup G-Codes
+/** \addtogroup G-codes
  * @{
  */
 

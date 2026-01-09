@@ -23,7 +23,7 @@
 #include "../gcode.h"
 #include "../../core/serial.h"
 
-/** \addtogroup G-Codes
+/** \addtogroup G-codes
  * @{
  */
 

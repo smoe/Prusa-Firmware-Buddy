@@ -26,7 +26,7 @@
 #include "../../module/motion.h"
 #include "../../module/stepper.h"
 
-/** \addtogroup G-Codes
+/** \addtogroup G-codes
  * @{
  */
 
